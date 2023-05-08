@@ -1,0 +1,31 @@
+
+Metodologias tradicionales
+
+Las metodologías tradicionales, también conocidas como modelos de proceso prescriptivo (1). Se crearon con el propósito de mejorar el pésimo tratamiento que se le daba al software durante sus primeros años de vida. Estas se caracterizan por su poca flexibilidad a los cambios. Lo que les ha dado la mala fama.
+
+Las metodologías tradicionales se rigen bajo una estructura secuencial inalterable basada en etapas. Dichas etapas son: el análisis de requerimientos, diseño, programación, pruebas y mantenimiento. Se le da gran importancia a los requerimientos del proyecto. Dado que se precisa de un amplio estudio para su definición, y una vez establecidos, no pueden alterarse de ninguna manera.
+
+Espiral
+Esta metodología permite un control preciso de los costos, recursos y potenciales riesgos del proyecto. Es permisiva con los cambios dado su carácter iterativo. Además, el cliente puede participar activamente en el proceso.
+
+Su proceso iterativo puede prolongar la duración del proyecto. Por su parte, requiere de expertos en el ámbito del control de riesgos. No es aconsejable utilizarlo en proyectos de menor escala.
+
+Cascada
+Se caracteriza por ofrecer un proyecto bien estructurado y de robusta documentación. Permite una definición precisa de los requerimientos del proyecto. También, es ideal para proyectos pequeños y con objetivos simples.
+
+Los proyectos complejos son imposibles de fragmentar. Es estricta frente a cualquier tipo de cambio o modificación. Los errores en el proyecto suelen detectarse hasta el final del proceso.
+
+Prototipo
+Destaca por no precisar de requerimientos robustos o estables para iniciar el proyecto. Facilita la presentación de los resultados del proyecto a los clientes. Promueve un mayor acercamiento directo a las necesidades del cliente.
+
+El prototipo generado suele confundirse con el producto final, aun cuando no está finalizado. Se requiere de expertos en el ámbito de diseño de interfaces de usuario. Además, se precisa de la participación del cliente en el proceso.
+
+Incremental
+En esta metodología el cliente puede cambiar los requerimientos del proyecto en cada iteración. Así mismo, este último puede usar el producto mucho antes de su entrega definitiva. El proceso de desarrollo es mucho más acelerado.
+
+Una planeación exhaustiva es indispensable para que el proyecto funcione. Es fundamental que los requerimientos del proyecto estén bien definidos. Por otro lado, sus costos suelen ser más elevados que en otros modelos de desarrollo.
+
+Desarrollo rápido de aplicaciones (RAD)
+Destaca por su flexibilidad y adaptabilidad a los cambios. El producto es fácil de trasladar a otros entornos. Además, cada etapa del proyecto prioriza las necesidades de los clientes.
+
+La metodología requiere de tiempos de entrega precisos para funcionar. No se aconseja utilizar en proyectos de menor escala. Así mismo, es indispensable la participación de expertos tanto de diseño como de programación.
